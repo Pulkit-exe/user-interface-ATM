@@ -23,7 +23,7 @@ This project is a simple ATM user interface created using Python. It provides ba
 1. Clone the repository to your local machine.
 2. Ensure Python is installed on your system.
 3. Place the `u_menu.py` and `w_menu.py` files in a folder named `Banking` in your Python directory.
-4. Run the `u_menu.py` file to start the user interface or `w_menu.py` for the worker interface.
+4. Run the `1.main.py` file to start the Interface.
 
 ## Usage
 
